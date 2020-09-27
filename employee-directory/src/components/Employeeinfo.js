@@ -13,11 +13,11 @@ function Employeeinfo(){
         </thead>
         <tbody>
           <tr>
-            <th scope="row">Pic</th>
-            <td>Mark</td>
-            <td>Otto</td>
-            <td>@mdo</td>
-            <td>age</td>
+            <th scope="row">./image/Boba2.jpg</th>
+            <td>Boba Fett</td>
+            <td>555-555-5555</td>
+            <td>bountyhuntersarecute2@mdo.sw</td>
+            <td>ageless</td>
           </tr>
           <tr>
             <th scope="row">Pic</th>

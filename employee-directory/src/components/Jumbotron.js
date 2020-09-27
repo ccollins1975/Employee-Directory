@@ -2,12 +2,12 @@ import React from "react";
 function Jumbotron(){
     return (
         <div class="jumbotron">
-        <h1 class="display-4">Hello, world!</h1>
-        <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-        <hr class="my-4">
-        <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+        <h1 class="display-4">Employee Directory</h1>
+        <p class="lead">Click on carrots to filter by heading or use the search box to narrow your results</p>
+        <hr class="my-4"/>
+       
         <p class="lead">
-          <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+         
         </p>
       </div>
     )
